@@ -24,6 +24,12 @@ button{
 	margin-bottom: 15px;
 	border-style: none;
 	font-family: 'Indie Flower', cursive;
+	cursor: pointer;
+}
+
+button:hover{
+	background: black;
+	color: grey;
 }
 
 h1{
